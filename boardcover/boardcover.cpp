@@ -4,15 +4,14 @@
 int board[20][20];
 int W, H;
 int block[4][3][2] = {
-	{ {0, 0}, {1, 0}, {0, 1} },
-	{ {0, 0}, {0, 1}, {1, 1} },
+	{ {0, 0}, {0, 1}, {1, 0} },
 	{ {0, 0}, {1, 0}, {1, 1} },
+	{ {0, 0}, {0, 1}, {1, 1} },
 	{ {0, 0}, {1, 0}, {1, -1} }
 };
+int ret;
 
 int coverBoard();
-void findStart(int *x, int *y);
-bool blockSpace(int x, int y, int block, int mode);
 
 int main()
 {
@@ -22,8 +21,10 @@ int main()
 	scanf("%d\n", &testN);
 	for (int i = 0; i < testN; i++)
 	{
+		ret = 0;
 		scanf("%d %d\n", &W, &H);
 		for (int j = 0; j < W; j++)
+		{
 			for (int k = 0; k < H; k++)
 			{
 				scanf("%c ", &tmp);
@@ -32,63 +33,58 @@ int main()
 				else if (tmp == '#')
 					board[j][k] = 1;
 			}
-		for (int j = 0; j < W; j++)
-		{
-			for (int k = 0; k < H; k++)
-			{
-				printf("%d", board[j][k]);
-			}
-			printf("\n");
 		}
-		printf("%d\n", coverBoard());
+		coverBoard();
+		printf("%d\n", ret);
 	}
 }
 
 int coverBoard()
 {
-	int x = -1, y = -1;
-	int count = 0;
+	int x = -1;
+	int y = -1;
 
-	findStart(&x, &y);
-	if (x == -1) return 1;
-
-	for (int shape = 0; shape < 4; shape++)
+	for (int i = 0; i < W; i++)
 	{
-		if (blockSpace(x, y, shape, 1))
-			count += coverBoard();
-		blockSpace(x, y, shape, -1);
-	}
-	return count;
-}
-
-void findStart(int *x, int *y)
-{
-	for (int i = 0; i < H; i++)
-	{
-		for (int j = 0; j < W; j++)
+		for (int j = 0; j < H; j++)
 		{
 			if (board[i][j] == 0)
 			{
-				*x = j;
-				*y = i;
-				return;
+				x = i;
+				y = j;
+				break;
 			}
 		}
+		if (x != -1) break;
 	}
-}
 
-bool blockSpace(int x, int y, int shape, int mode)
-{
-	int nextX, nextY;
-
-	for (int i = 0; i < 3; i++)
+	if (x == -1)
 	{
-		nextX = x + block[shape][i][1];
-		nextY = y + block[shape][i][0];
-		if (nextX < 0 || nextX >= W || nextY < 0 || nextY >= H)
-			return false;
-		else if ((board[nextY][nextX] += mode) > 1)
-			return false;
+		ret++;
+		return ret;
 	}
-	return true;
+
+	int x1, x2, y1, y2;
+	for (int i = 0; i < 4; i++)
+	{
+		x1 = x + block[i][1][0];
+		y1 = y + block[i][1][1];
+		x2 = x + block[i][2][0];
+		y2 = y + block[i][2][1];
+
+		if (x1 < 0 || x1 >= W || x2 < 0 || x2 >= W
+			|| y1 < 0 || y1 >= H || y2 < 0 || y2 >= H) continue;
+		
+		if (!(board[x1][y1] || board[x2][y2]))
+		{
+			board[x][y] = 1;
+			board[x1][y1] = 1;
+			board[x2][y2] = 1;
+			coverBoard();
+			board[x][y] = 0;
+			board[x1][y1] = 0;
+			board[x2][y2] = 0;
+		}
+	}
+	return (ret);
 }
