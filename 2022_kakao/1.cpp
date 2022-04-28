@@ -25,6 +25,7 @@ vector<int> solution(vector<string> id_list, vector<string> report, int k) {
 		answer.push_back(0);
     }
 
+    sort(report.begin(), report.end());
 	report.erase(unique(report.begin(), report.end()), report.end());
     
 	for (int i = 0; i < report.size(); i++)
