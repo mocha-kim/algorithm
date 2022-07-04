@@ -9,6 +9,8 @@ Algorithmic Problem Solving Strategies
 | 3 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 42586 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/42586.cpp) |
 | 4 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 42840 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/ex-search/42840.cpp) |
 | 5 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 42862 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/greedy/42862.cpp) |
+| 6 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | 42577 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/hash/42577.cpp) |
+| 7 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 42578 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/hash/42578.cpp) |
 
 ## 2022 kakao recruitment
 
