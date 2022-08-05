@@ -33,12 +33,12 @@ Algorithmic Problem Solving Strategies
 ## 프로그래머스 월간챌린지2
 | # | Problem | ID & 제출한 답 | 
 | - | ------- | ------------ |
-| 1 | 💛 [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | 77885 [📝]() |
-| 2 | 💛 [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | 76502 [📝]() |
-| 3 | 💚 [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | 77884 [📝]() |
-| 4 | 💚 [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | 76501 [📝]() |
-| 5 | 🧡 [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) | 76503 [📝]() |
-| 6 | 🧡 [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886) | 77886 [📝]() |
+| 1 | 💛 [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | 77885 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/challenges-2/77885.cpp) |
+| 2 | 💛 [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | 76502 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/challenges-2/76502.cpp) |
+| 3 | 💚 [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | 77884 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/challenges-2/77884.cpp) |
+| 4 | 💚 [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | 76501 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/challenges-2/76501.cpp) |
+| 5 | 🧡 [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) | 76503 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/challenges-2/76503.cpp) |
+| 6 | 🧡 [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886) | 77886 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/challenges-2/77886.cpp) |
 
 ## 2022 kakao recruitment
 
