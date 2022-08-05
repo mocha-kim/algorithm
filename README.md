@@ -13,6 +13,25 @@ Algorithmic Problem Solving Strategies
 | 7 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 42578 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/hash/42578.cpp) |
 | 8 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | 43165 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/dfs-bfs/43165.cpp) |
 | 9 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 42626 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/heap/42626.cpp) |
+| 10 | [게임 맵 최단거리]() | 42596 [📝]() |
+| 11 | [네트워크]() | 42596 [📝]() |
+| 12 | [단어 변환]() | 42596 [📝]() |
+| 13 | [가장 큰 수]() | 42596 [📝]() |
+| 14 | [H-Index]() | 42596 [📝]() |
+| 15 | [소수 찾기]() | 42596 [📝]() |
+| 16 | [최소직사각형]() | 42596 [📝]() |
+| 17 | [피로도]() | 42596 [📝]() |
+| 18 | [프린터]() | 42596 [📝]() |
+
+## 프로그래머스 월간챌린지2
+| # | Problem | ID & 제출한 답 | 
+| - | ------- | ------------ |
+| 1 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | 42596 [📝]() |
+| 2 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | 42596 [📝]() |
+| 3 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | 42596 [📝]() |
+| 4 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | 42596 [📝]() |
+| 5 | [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) | 42596 [📝]() |
+| 6 | [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886) | 42596 [📝]() |
 
 ## 2022 kakao recruitment
 
