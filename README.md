@@ -57,10 +57,11 @@ Algorithmic Problem Solving Strategies
 |-- | ------- | ------- |
 | 01 ~ 31 | basic | [🗂](https://github.com/mocha-kim/CPS/tree/main/basic) |
 | 32 ~ 39 | sort | [🗂](https://github.com/mocha-kim/CPS/tree/main/sort) |
-| 40, 41 | two pointers algorithm | [🗂](https://github.com/mocha-kim/CPS/tree/main/two-pointers) |
+| 40, 41, 52 | two pointers algorithm | [🗂](https://github.com/mocha-kim/CPS/tree/main/two-pointers) |
 | 42 ~ 44 | binary search | [🗂](https://github.com/mocha-kim/CPS/tree/main/binary-search) |
 | 45, 46 | queue | [🗂](https://github.com/mocha-kim/CPS/tree/main/queue) |
 | 47 ~ 51 | 2d vector | [🗂](https://github.com/mocha-kim/CPS/tree/main/2d-vector) |
+| 53 ~ 55 | stack | [🗂](https://github.com/mocha-kim/CPS/tree/main/stack) |
 
 ## algospot(프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략)
 
