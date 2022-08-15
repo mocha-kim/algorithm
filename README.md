@@ -29,6 +29,7 @@ Algorithmic Problem Solving Strategies
 | 17 | 💚 [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | 86491 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/ex-search/86491.cpp) |
 | 18 | 💛 [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 87946 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/ex-search/87946.cpp) |
 | 19 | 💛 [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 42587 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/42587.cpp) |
+| 20 | 💛 [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 42583 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/42583.cpp) |
 
 ## 프로그래머스 월간챌린지2
 | # | Problem | ID & 제출한 답 | 
