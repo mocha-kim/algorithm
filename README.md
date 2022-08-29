@@ -26,6 +26,7 @@ Algorithmic Problem Solving Strategies
 | 21 | 💛 [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 12909 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/12909.cpp)
 | 22 | 💚 [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 12906 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/12906.cpp)
 | 23 | 💛 [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584#) | 42584 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/42584.cpp)
+| 24 | 💛 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 42627 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/heap/42627.cpp)
 
 ## 프로그래머스 월간챌린지2
 | # | Problem | ID & Code | 
