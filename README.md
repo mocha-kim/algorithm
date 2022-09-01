@@ -23,10 +23,14 @@ Algorithmic Problem Solving Strategies
 
 | # | Problem | ID & Code | # |
 | - | ------- | --------- | - |
-| 21 | 💛 [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 12909 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/12909.cpp)
-| 22 | 💚 [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 12906 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/12906.cpp)
-| 23 | 💛 [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584#) | 42584 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/42584.cpp)
-| 24 | 💛 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 42627 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/heap/42627.cpp)
+| 21 | 💛 [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 12909 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/12909.cpp) |
+| 22 | 💚 [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 12906 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/12906.cpp) |
+| 23 | 💛 [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584#) | 42584 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/42584.cpp) |
+| 24 | 🧡 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 42627 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/heap/42627.cpp) |
+| 25 | 🧡 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 42628 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/heap/42628.cpp) |
+| 26 | 💛 [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | 42842 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/ex-search/42842) |
+| 27 | 💛 [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 86971 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/ex-search/86971) |
+| 28 | 🧡 [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 43164 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/dfs-bfs/43164.cpp) |
 
 ## 프로그래머스 월간챌린지2
 | # | Problem | ID & Code | 
