@@ -31,6 +31,8 @@ Algorithmic Problem Solving Strategies
 | 26 | 💛 [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | 42842 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/ex-search/42842) |
 | 27 | 💛 [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 86971 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/ex-search/86971) |
 | 28 | 🧡 [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 43164 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/dfs-bfs/43164.cpp) |
+| 29 | 💛 [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 142085 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/dfs-bfs/142085.cpp) |
+| 30 | 💛 [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | 140107 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/math/140107.cpp) |
 
 ## 프로그래머스 월간챌린지2
 | # | Problem | ID & Code | 
