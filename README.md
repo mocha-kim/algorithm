@@ -21,13 +21,13 @@ Algorithmic Problem Solving Strategies
 | 9 | 💛 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 42626 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/heap/42626.cpp) | 19 | 💛 [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 42587 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/42587.cpp) |
 | 10 | 💛 [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 1844 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/dfs-bfs/1844.cpp) | 20 | 💛 [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 42583 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/42583.cpp) |
 
-| # | Problem | ID & Code | # |
-| - | ------- | --------- | - |
-| 21 | 💛 [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 12909 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/12909.cpp) |
-| 22 | 💚 [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 12906 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/12906.cpp) |
-| 23 | 💛 [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584#) | 42584 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/42584.cpp) |
-| 24 | 🧡 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 42627 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/heap/42627.cpp) |
-| 25 | 🧡 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 42628 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/heap/42628.cpp) |
+| # | Problem | ID & Code | # | Problem | ID & Code | 
+| - | ------- | --------- | - | ------- | --------- |
+| 21 | 💛 [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 12909 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/12909.cpp) | 31 | 🧡 [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | 87694 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/dfs-bfs/87694.cpp) |
+| 22 | 💚 [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 12906 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/12906.cpp) | 32 | 🧡 [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | 42895 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/dp/42895.cpp) |
+| 23 | 💛 [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584#) | 42584 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/stack-queue/42584.cpp) | 33 | 🧡 [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 43105 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/dp/43105.cpp) |
+| 24 | 🧡 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 42627 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/heap/42627.cpp) | 34 | 🧡 [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 42898 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/dp/42898.cpp) |
+| 25 | 🧡 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 42628 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/heap/42628.cpp) | 35 | ❤️[최적의 행렬 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12942) | 12942 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/dp/12942.cpp) |
 | 26 | 💛 [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | 42842 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/ex-search/42842) |
 | 27 | 💛 [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 86971 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/ex-search/86971) |
 | 28 | 🧡 [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 43164 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/dfs-bfs/43164.cpp) |
@@ -43,6 +43,14 @@ Algorithmic Problem Solving Strategies
 | 4 | 💚 [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | 76501 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/challenges-2/76501.cpp) |
 | 5 | 🧡 [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) | 76503 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/challenges-2/76503.cpp) |
 | 6 | 🧡 [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886) | 77886 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/challenges-2/77886.cpp) |
+
+## 프로그래머스 PCCP 모의고사 1회
+| # | Problem | ID & Code | 
+| - | ------- | ------------ |
+| 1 | 💚 [외톨이 알파벳](https://school.programmers.co.kr/learn/courses/15008/lessons/121683) | 121683 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/pccp-1/1.cpp) |
+| 2 | 💛 [체육대회](https://school.programmers.co.kr/learn/courses/15008/lessons/121684) | 121684 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/pccp-1/2.cpp) |
+| 3 | 💛 [유전법칙](https://school.programmers.co.kr/learn/courses/15008/lessons/121685) | 121685 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/pccp-1/3.cpp) |
+| 4 | 🧡 [운영체제](https://school.programmers.co.kr/learn/courses/15008/lessons/121686) | 121686 [📝](https://github.com/mocha-kim/algorithm/blob/main/programmers/pccp-1/4.cpp) |
 
 ## 2022 kakao recruitment
 
