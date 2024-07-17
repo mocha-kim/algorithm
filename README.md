@@ -93,11 +93,11 @@ Algorithmic Problem Solving Strategies
 ## boj
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=0077c3&height=80&section=header&text=baekjoon%20online%20judge&fontSize=20&fontColor=ffffff)
 
-![Grade5](https://img.shields.io/badge/Lv.1_-4CAF50?style=flat) 💚
-![Grade4](https://img.shields.io/badge/Lv.2_-FFC107?style=flat) 💛 
-![Grade3](https://img.shields.io/badge/Lv.3_-FF9800?style=flat) 🧡 
-![Grade2](https://img.shields.io/badge/Lv.4_-FF5722?style=flat) ❤️ 
-![Grade1](https://img.shields.io/badge/Lv.5_-F44336?style=flat) 🖤 
+![Grade5](https://img.shields.io/badge/Grade5_-4CAF50?style=flat) 💚
+![Grade4](https://img.shields.io/badge/Grade4_-FFC107?style=flat) 💛 
+![Grade3](https://img.shields.io/badge/Grade3_-FF9800?style=flat) 🧡 
+![Grade2](https://img.shields.io/badge/Grade2_-FF5722?style=flat) ❤️ 
+![Grade1](https://img.shields.io/badge/Grade1_-F44336?style=flat) 🖤 
 
 ### silver
 |  #  | Problem | Code |  #  | Problem | Code | 
