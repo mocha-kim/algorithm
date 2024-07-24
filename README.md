@@ -105,18 +105,25 @@ Algorithmic Problem Solving Strategies
 | 1003 | 🧡 [피보나치 함수](https://www.acmicpc.net/problem/1003) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1003.cpp) | 2805 | ❤️ [나무 자르기](https://www.acmicpc.net/problem/2805) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_2805.cpp) |
 | 1012 | ❤️ [유기농 배추](https://www.acmicpc.net/problem/1012) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1012.cpp) | 9095 | 🧡 [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_9095.cpp) |
 | 1074 | 🖤 [Z](https://www.acmicpc.net/problem/1074) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1074.cpp) | 11399 | 💛 [ATM](https://www.acmicpc.net/problem/11399) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_11399.cpp) |
-| 1260 | ❤️ [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1260.cpp) |
-| 1463 | 🧡 [1로 만들기](https://www.acmicpc.net/problem/1463) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1463.cpp) |
-| 1697 | 🖤 [숨바꼭질](https://www.acmicpc.net/problem/1697) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1697.cpp) |
-| 1764 | ❤️ [듣보잡](https://www.acmicpc.net/problem/1764) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1764.cpp) |
-| 1986 | 🖤 [체스](https://www.acmicpc.net/problem/1986) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1986.cpp) |
-| 2606 | 🧡 [바이러스](https://www.acmicpc.net/problem/2606) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_2606.cpp) |
-| 2630 | ❤️ [색종이 만들기](https://www.acmicpc.net/problem/2630) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_2630.cpp) |
+| 1149 | 🖤 [RGB 거리](https://www.acmicpc.net/problem/1149) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1149.cpp) | 11659 | 🧡 [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_11659.cpp) |
+| 1260 | ❤️ [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1260.cpp) | 11660 | 🖤 [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_11660.cpp) |
+| 1463 | 🧡 [1로 만들기](https://www.acmicpc.net/problem/1463) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1463.cpp) | 11723 | 💚 [집합](https://www.acmicpc.net/problem/11723) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_11723.cpp) |
+| 1629 | 🖤 [곱셈](https://www.acmicpc.net/problem/1629) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1629.cpp) | 11724 | ❤️ [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_11724.cpp) |
+| 1697 | 🖤 [숨바꼭질](https://www.acmicpc.net/problem/1697) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1697.cpp) | 11726 | 🧡 [2×n 타일링](https://www.acmicpc.net/problem/11726) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_11726.cpp) |
+| 1764 | ❤️ [듣보잡](https://www.acmicpc.net/problem/1764) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1764.cpp) | 14940 | 🖤 [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_14940.cpp) |
+| 1986 | 🖤 [체스](https://www.acmicpc.net/problem/1986) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_1986.cpp) | 15650 | 🧡 [N과 M (2)](https://www.acmicpc.net/problem/15650) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_15650.cpp) |
+| 2606 | 🧡 [바이러스](https://www.acmicpc.net/problem/2606) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_2606.cpp) | 15654 | 🧡 [N과 M (5)](https://www.acmicpc.net/problem/15654) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_15654.cpp) |
+| 2630 | ❤️ [색종이 만들기](https://www.acmicpc.net/problem/2630) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_2630.cpp) | 18870 | ❤️ [좌표 압축](https://www.acmicpc.net/problem/18870) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_18870.cpp) |
 
 ### gold
 |  #  | Problem | Code |  #  | Problem | Code | 
 | :-: | ------- | :--: | :-: | ------- | :--: |
+| 1043 | 💛 [거짓말](https://www.acmicpc.net/problem/1043) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1043.cpp) |
+| 1865 | 🧡 [웜홀](https://www.acmicpc.net/problem/1865) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1865.cpp) |
+| 1916 | 💚 [최소비용 구하기](https://www.acmicpc.net/problem/1916) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1916.cpp) |
 | 7576 | 💚 [토마토](https://www.acmicpc.net/problem/7576) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_7576.cpp) |
+| 9251 | 💚 [LCS](https://www.acmicpc.net/problem/9251) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_9251.cpp) |
+| 9663 | 💛 [N-Queen](https://www.acmicpc.net/problem/9663) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_9663.cpp) |
 | 16234 | 💛 [인구 이동](https://www.acmicpc.net/problem/16234) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_16234.cpp) |
 | 31498 | 💚 [장난을 잘 치는 토카 양](https://www.acmicpc.net/problem/31498) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_31498.cpp) |
 
