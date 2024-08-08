@@ -130,14 +130,19 @@ Algorithmic Problem Solving Strategies
 | 11660 | 🖤 [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_11660.cpp) | 15663 | ❤️ [N과 M (9)](https://www.acmicpc.net/problem/15663) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_15663.cpp) |
 | 11723 | 💚 [집합](https://www.acmicpc.net/problem/11723) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_11723.cpp) | 18870 | ❤️ [좌표 압축](https://www.acmicpc.net/problem/18870) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_18870.cpp) |
 | 11724 | ❤️ [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/silver/boj_11724.cpp) |
+
   
 ### gold
 |  #  | Problem | Code |  #  | Problem | Code | 
 | :-: | ------- | :--: | :-: | ------- | :--: |
+| 1005 | 🧡 [ACM Craft](https://www.acmicpc.net/problem/1005) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1005.cpp) | 2098 | 🖤 [외판원 순회](https://www.acmicpc.net/problem/2098) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_2098.cpp) |
 | 1043 | 💛 [거짓말](https://www.acmicpc.net/problem/1043) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1043.cpp) | 2206 | 🧡 [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_2206.cpp) |
-| 1238 | 🧡 [파티](https://www.acmicpc.net/problem/1238) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1238.cpp) |
-| 1167 | ❤️ [트리의 지름](https://www.acmicpc.net/problem/1167) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1167.cpp) |
+| 1197 | 💛 [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1197.cpp) | 2252 | 🧡 [줄 세우기](https://www.acmicpc.net/problem/2252) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_2252.cpp) |
+| 1167 | ❤️ [트리의 지름](https://www.acmicpc.net/problem/1167) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1167.cpp) | 2467 | 💚 [용액](https://www.acmicpc.net/problem/2467) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_2467.cpp) |
+| 1238 | 🧡 [파티](https://www.acmicpc.net/problem/1238) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1238.cpp) | 2473 | 🧡 [세 용액](https://www.acmicpc.net/problem/2473) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_2473.cpp) |
+| 1562 | 🖤 [계단 수](https://www.acmicpc.net/problem/1562) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1562.cpp) | 2623 | 🧡 [음악프로그램](https://www.acmicpc.net/problem/2623) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_2623.cpp) |
 | 1753 | 💛 [최단경로](https://www.acmicpc.net/problem/1753) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1753.cpp) |
+| 1806 | 💛 [부분합](https://www.acmicpc.net/problem/1806) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1806.cpp) |
 | 1865 | 🧡 [웜홀](https://www.acmicpc.net/problem/1865) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1865.cpp) |
 | 1916 | 💚 [최소비용 구하기](https://www.acmicpc.net/problem/1916) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1916.cpp) |
 | 1918 | ❤️ [후위 표기식](https://www.acmicpc.net/problem/1918) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_1918.cpp) |
@@ -146,6 +151,8 @@ Algorithmic Problem Solving Strategies
 
 |  #  | Problem | Code |  #  | Problem | Code | 
 | :-: | ------- | :--: | :-: | ------- | :--: |
+| 7453 | 💛 [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_7453.cpp) |
+| 7579 | 🧡 [앱](https://www.acmicpc.net/problem/7579) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_7579.cpp) |
 | 7576 | 💚 [토마토](https://www.acmicpc.net/problem/7576) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_7576.cpp) |
 | 9251 | 💚 [LCS](https://www.acmicpc.net/problem/9251) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_9251.cpp) |
 | 9663 | 💛 [N-Queen](https://www.acmicpc.net/problem/9663) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_9663.cpp) |
@@ -153,10 +160,20 @@ Algorithmic Problem Solving Strategies
 
 |  #  | Problem | Code |  #  | Problem | Code | 
 | :-: | ------- | :--: | :-: | ------- | :--: |
+| 11049 | 🧡 [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_11049.cpp) |
 | 11404 | ❤️ [플로이드](https://www.acmicpc.net/problem/11404) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_11404.cpp) | 16234 | 💛 [인구 이동](https://www.acmicpc.net/problem/16234) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_16234.cpp) |
 | 11444 | ❤️ [피보나치 수 6](https://www.acmicpc.net/problem/11444) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_11444.cpp) | 31498 | 💚 [장난을 잘 치는 토카 양](https://www.acmicpc.net/problem/31498) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_31498.cpp) |
+| 12015 | ❤️ [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_12015.cpp) |
+| 12100 | 🖤 [2048(Easy)](https://www.acmicpc.net/problem/12100) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_12100.cpp) |
 | 12865 | 💚 [평범한 배낭](https://www.acmicpc.net/problem/12865) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_12865.cpp) |
 | 13549 | 💚 [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/gold/boj_13549.cpp) |
+
+
+### platinum
+|  #  | Problem | Code |  #  | Problem | Code | 
+| :-: | ------- | :--: | :-: | ------- | :--: |
+| 14003 | 💚 [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) | [📝](https://github.com/mocha-kim/algorithm/blob/main/boj/platinum/boj_14003.cpp) |
+
 
 ## inflearn
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=00c471&height=80&section=header&text=Creative%20Problem%20Solving&fontSize=20&fontColor=ffffff)
